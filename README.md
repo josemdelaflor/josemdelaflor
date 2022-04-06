@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josemdelaflor
+- 👀 I’m interested in learning programming languages for Data Analytics
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on cybersecurity and data related projects
+- 📫 How to reach me: https://www.linkedin.com/in/josemdelaflor/
